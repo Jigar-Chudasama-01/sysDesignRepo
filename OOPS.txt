@@ -1,0 +1,3 @@
+class is logical construct.
+objects are physical.
+static variables are property of class rather than individual object.
