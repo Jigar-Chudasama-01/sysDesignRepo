@@ -5,7 +5,7 @@ syllabus of system design as per GFG:
 
 01Basics of Low Level Design
 Introduction to Object-Oriented Programming✅
-Class & Objects, Encapsulation, Inheritance, Abstraction, Polymorphism
+Class & Objects, Encapsulation, Inheritance, Abstraction, Polymorphism✅
 Operator overloading, Association, Aggregation, and Composition
 Class diagram as a Visual Tool
 Procedural vs OO Programming

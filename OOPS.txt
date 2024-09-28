@@ -1,3 +1,20 @@
 class is logical construct.
 objects are physical.
 static variables are property of class rather than individual object.
+final methods cannot be overridden | final classes cannot  be inherited;
+pillars of OOPS :
+I) Inheritance :
+    hierarchical
+    multiple
+    single
+    hybrid
+II) polymorphism :
+    compile time : same name of methods but different return type, arguments, number of arguments
+    runtime : overriding methods
+
+    static methods do not depend on objects, and overriding methods is based on objects. so static methods cannot
+    be overridden.
+III) && IV) encapsulation and abstraction : just show the VERY necessary part only
+            abstraction is thinking about design (what is needed)
+            encapsulation is implementing the abstraction (doing the actual code)
+
