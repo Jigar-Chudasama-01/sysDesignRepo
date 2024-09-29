@@ -3,12 +3,12 @@ I will also write code related to it**
 
 syllabus of system design as per GFG:
 
-01Basics of Low Level Design
+01 Basics of Low Level Design
 Introduction to Object-Oriented Programming✅
 Class & Objects, Encapsulation, Inheritance, Abstraction, Polymorphism✅
-Operator overloading, Association, Aggregation, and Composition
+Operator overloading❌, Association, Aggregation, and Composition✅
 Class diagram as a Visual Tool
-Procedural vs OO Programming
+Procedural vs OOP Programming✅
 
 02 Understanding Constructors✅
 Default and Parameterized Constructor✅
