@@ -23,3 +23,6 @@ access modifiers : public : access from anywhere
                    protected : only cannot access from different package and not subclass
                    default : access from same class, package and same package subclass
 
+abstract classes can contain normal and abstract methods, variables.
+the classes who extend to abstract class need to override abstract methods.
+final classes cannot be abstract and vise versa because they cant be inherited
