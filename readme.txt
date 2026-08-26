@@ -1,6 +1,8 @@
 **In this project I will explain and understand sys design.
 I will also write code related to it**
 
+This thing was like two years ago
+
 syllabus of system design as per GFG:
 
 01 Basics of Low Level Design✅
